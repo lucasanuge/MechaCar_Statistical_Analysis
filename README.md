@@ -14,5 +14,6 @@ Looking at the R-squared value (0.7149), we can say that this particular model c
 
 As we can see from the lot_summary dataframe, the third lot has variance at 170.29 which is higher than the design specifications of the MechaCar. Only lots 1 and 2 have variance under 100 psi and follows design specifications for the MechaCar.
 
+## T-Tests on Suspension Coils
 
 
