@@ -16,6 +16,14 @@ As we can see from the lot_summary dataframe, the third lot has variance at 170.
 
 ## T-Tests on Suspension Coils
 ![t-test for all lots](images/t-test_for_all_lots.PNG)
+<br>
+As seen from the screenshot above, the t-test for the PSI for all manufacturing lots show no statistical significance as the p-value is not lower than the 0.05 alpha level. Hence, we fail to reject the null hypothesis and that the mean of the PSI across all manufacturing lots is not different from the population mean.
 ![t-test for all lots](images/t-test_for_lot1.PNG)
+<br>
+As seen from the screenshot above, the t-test for the PSI for lot 1 show no statistical significance as the p-value is not lower than the 0.05 alpha level. Hence, we fail to reject the null hypothesis and that the mean of the PSI for manufacturing lot 1 is not different from the population mean.
 ![t-test for all lots](images/t-test_for_lot2.PNG)
+<br>
+As seen from the screenshot above, the t-test for the PSI for lot 2 show no statistical significance as the p-value is not lower than the 0.05 alpha level. Hence, we fail to reject the null hypothesis and that the mean of the PSI for manufacturing lot 2 is not different from the population mean.
 ![t-test for all lots](images/t-test_for_lot3.PNG)
+<br>
+Lastly, the t-test for the PSI for lot 3 show statistical significance as the p-value lower than the 0.05 alpha level. Hence, we reject the null hypothesis and state that the mean of the PSI for manufacturing lot 3 is different from the population mean.
