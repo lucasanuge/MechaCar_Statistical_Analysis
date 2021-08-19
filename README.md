@@ -28,3 +28,5 @@ As seen from the screenshot above, the t-test for the PSI for lot 2 show no stat
 ![t-test for all lots](images/t-test_for_lot3.PNG)
 <br>
 Lastly, the t-test for the PSI for lot 3 show statistical significance as the p-value lower than the 0.05 alpha level. Hence, we reject the null hypothesis and state that the mean of the PSI for manufacturing lot 3 is different from the population mean.
+
+## Study Design: MechaCar vs Competition
