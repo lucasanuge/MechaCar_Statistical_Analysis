@@ -33,3 +33,22 @@ As seen from the screenshot above, the t-test for the PSI for lot 2 show no stat
 Lastly, the t-test for the PSI for lot 3 show statistical significance as the p-value lower than the 0.05 alpha level. Hence, we reject the null hypothesis and state that the mean of the PSI for manufacturing lot 3 is different from the population mean.
 
 ## Study Design: MechaCar vs Competition
+<br>
+With modern day cars having beautiful high tech interiors and powered by electricity, people now a days are more interested with the perks of having a car with technologies such as Apple CarPlay or Android Auto, superb interior design, and high fuel efficiency. Not many people are looking for high horse powered cars as cars such as those will cost a lot to fuel up and eventually have high cost in maintinence. However, since it is hard to quantify the car's interior design and technologies in it, for this case study we will focus on fuel efficiency as more people are starting to be more conscious about carbon emission and global warming.
+
+<br>
+-What metric or metrics are you going to test?
+In this case study, fuel efficiency both in the city and highway will be the metric we are going to test.
+
+-What is the null hypothesis or alternative hypothesis?
+Ho1: MechaCar and its competitors have equal mean in city fuel efficiency
+Ha1: MechaCar and its competitors have do not have equal mean in city fuel efficiency
+Ho2: MechaCar and its competitors have equal mean in highway fuel efficiency
+Ha2: MechaCar and its competitors have do not have equal mean in highway fuel efficiency
+
+
+-What statistical test would you use to test the hypothesis? And why?
+First we will conduct a two-sample t-test to see whether the MechaCar average city fuel efficiency is higher than its competitors. Second we will perform a two-sample t-test to see whether the MechaCar average highway fuel efficiency is higher than its competitors.
+
+-What data is needed to run the statistical test?
+We need both city and highway fuel efficiency rating from all MechCar prototypes and also its competitors.
