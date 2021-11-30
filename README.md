@@ -40,6 +40,7 @@ With modern day cars having beautiful high tech interiors and powered by electri
 -What metric or metrics are you going to test?
 In this case study, fuel efficiency both in the city and highway will be the metric we are going to test.
 
+
 -What is the null hypothesis or alternative hypothesis?
 Ho1: MechaCar and its competitors have equal mean in city fuel efficiency
 Ha1: MechaCar and its competitors have do not have equal mean in city fuel efficiency
